@@ -18,8 +18,10 @@ En la clase de  EconGrowth
 [Este es el link al software Typora](https://typora.io/) 
 
 ```python
-1+1
+1 + 1
 ```
+#Esta es una nueva sección
+
 
  
 
