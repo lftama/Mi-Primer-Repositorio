@@ -20,7 +20,7 @@ En la clase de  EconGrowth
 ```python
 1 + 1
 ```
-#Esta es una nueva sección
+# Esta es una nueva sección
 
 
  
